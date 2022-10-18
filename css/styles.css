@@ -196,3 +196,12 @@ li a:hover {
   color: white;
 }
 
+#searchbBtn {
+  background-color: #DEA0D8;
+  margin-left: 5px;
+  border: 2px solid white;
+}
+
+.fa-search {
+  color: white;
+}
